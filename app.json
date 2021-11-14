@@ -1,0 +1,12 @@
+{
+  "expo": {
+    
+    "name": "elementaryHomework",
+    "slug": "elementaryHomework",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "elementaryHomework"
+}
