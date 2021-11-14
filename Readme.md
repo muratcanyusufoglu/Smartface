@@ -2,6 +2,16 @@
 
 Uygulamamı sistem gereksinimleri dolayısıyla expo ile yapmak durumunda kaldım. Uygulamamı yaparken firebase database kullandım. Firebase içerisinde kullanıcı giriş bilgileri, verilen ödevler, ve yapılmış ödevler yer alıyor. Uygulama ilk açıldığında açılış sayfasına gidiyoruz. Uygulama açılış sayfası aşağıdaki gibidir.
 
+Giriş için öğretmen şifreleri:
+email : lily@gmail.com  password: 123123  class : B
+email : rose@gmail.com  password: 123123  class: A
+email : stefan@gmail.com  password : 123123 class: C
+ 
+Giriş için öğrenci şifleri:
+email : steph@student.com password : 123123 class : B
+email : klay@student.com password : 123123  class : A
+email : kevin@student.com password : 123123   class : C
+
 ![Login Choose](https://github.com/muratcanyusufoglu/Smartface/blob/main/src/Components/photos/IMG_6325.PNG)
 
 
